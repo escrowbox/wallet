@@ -22,4 +22,4 @@ Both the native TON token and non-native tokens such as USDT or USDE are support
 ## Contract
 
 - **contract address:** `EQAfXIFP-VpNnRmyAOPtdM2RXdM0NR4oR4XnuY-zXb-obAPB`
-- **contract code:** [github.com/escrowbox/escrow-wallet/contracts](https://github.com/escrowbox/escrow-wallet/blob/main/contracts)
+
